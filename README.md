@@ -3,7 +3,7 @@ SnakeYAML
 
 ##YAML parser and emitter for Java
 
-This is the official [SnakeYAML] mirror for those who prefer to use GIT.
+This is the non-official [SnakeYAML] mirror. Backing up just in case.
 
 
 ## License
